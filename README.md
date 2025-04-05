@@ -1,6 +1,7 @@
 # CodeShacks - Comprehensive Web Recon Tool
 
-![CodeShacks Logo](https://via.placeholder.com/150x50?text=CodeShacks)
+![CodeShacks Logo](![logo](https://github.com/user-attachments/assets/1a9e3054-ffae-40b8-a781-88f07658a964)
+)
 
 A Python-based reconnaissance tool for web security assessments by Raj Shrivastav.
 
